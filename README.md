@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" height="100" />
+    <img src="https://github.com/kaveeshawi/kaveeshawi/blob/main/Assets/about_me.gif?raw=true" width="100" height="100" />
     <summary><h1 style="display: inline-block">Hi, I'm Kaveesha Wijesiriwardana</h1></summary>
     <b>​🇼​​🇦​​🇱​​🇰​​🇮​​🇳​​🇬​ ​🇹​​🇭​​🇷​​🇴​​🇺​​🇬​​🇭​ ​🇦​ ​🇵​​🇦​​🇹​​🇭​ ​🇴​​🇫​ ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇻​​🇮​​🇹​​🇾​...</b>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" />
