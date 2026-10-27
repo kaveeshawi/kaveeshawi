@@ -13,7 +13,7 @@
 
 #### 👨🏻‍💻 &nbsp;About Me
 <ul>
-<li>👨‍💻 &nbsp;I’m an Undergraduate at Cardiff Met </li>
+<li>👨‍💻 &nbsp;Software Engineer | Ux/Ui Designer </li>
 <li>🌱 &nbsp;Explore emerging technologies </li>
 <li>💬 &nbsp;Ask me about ux/ui designs </li>
 <li>✍️ &nbsp;Content Writer </li>
